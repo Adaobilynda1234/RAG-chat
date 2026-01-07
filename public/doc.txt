@@ -1,0 +1,59 @@
+NAME
+Adaobi Okwuosa
+
+PROFESSIONAL SUMMARY
+I am a passionate Fullstack Developer, Technical Writer, and Blockchain Enthusiast.
+I enjoy building scalable web applications, exploring emerging technologies, and
+documenting technical concepts in a clear and accessible way.
+
+CURRENT WORK
+- Actively building projects using React, Next.js, Node.js, AI tools, and DevOps practices.
+
+LEARNING
+- Blockchain Development
+- Backend Engineering
+
+COLLABORATION INTERESTS
+- Open-source frontend projects
+- Blockchain-related projects
+
+OPPORTUNITIES SEEKING
+- Frontend Developer roles
+- Backend Developer roles
+- Technical Writing roles
+
+PROJECTS
+GitHub Profile:
+https://github.com/Adaobilynda1234
+
+SKILLS & EXPERTISE
+- React
+- Next.js
+- Node.js
+- JavaScript
+- TypeScript
+- Blockchain (beginner to intermediate)
+- AI integrations
+- Technical Writing
+
+LANGUAGES & TOOLS
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Tailwind CSS
+- Bootstrap
+- Sass
+- Firebase
+- PostgreSQL
+
+CONTACT INFORMATION
+Email: adaobilynda1234@gmail.com
+
+SOCIAL LINKS
+Twitter: https://twitter.com/mdaobi
+LinkedIn: https://linkedin.com/in/adaobi-okwuosa
+
+FUN FACT
+I enjoy watching horror movies and listening to sad music.
